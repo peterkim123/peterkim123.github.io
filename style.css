@@ -157,3 +157,11 @@ h3 {
     height: 300px;
     border-radius: 10px;
 }
+.FinanceBox a {
+    color:rgb(255,255,255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.FinanceBox p {
+    color:rgb(255,255,255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
