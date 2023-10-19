@@ -20,6 +20,7 @@ h1 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-radius: 8px;
     font-size: 17px;
     font-family:'Courier New', Courier, monospace;
 }
