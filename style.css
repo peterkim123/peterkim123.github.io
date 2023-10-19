@@ -71,7 +71,7 @@ li {
 div.container1 p {  
     position: absolute;
     left: 43.1%;
-    top: 39%;
+    top: 42%;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 20px;
     border-right: solid 3px rgba(0,255,0,.75);
@@ -83,7 +83,7 @@ div.container1 p {
 div.container2 p {
     position:absolute;
     left: 42.4%;
-    top: 46.5%;
+    top: 44%;
     font-family:'Courier New', Courier, monospace;
     font-size: 20px;
     
