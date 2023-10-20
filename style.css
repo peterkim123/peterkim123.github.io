@@ -197,6 +197,13 @@ h3 {
   text-align: center;
   font-weight: bold;
 }
+.opticIntro { 
+  font-size: 300%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-weight: bold;
+}
 .button2 {
     position: absolute;
     left: 45%;
