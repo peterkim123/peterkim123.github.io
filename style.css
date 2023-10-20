@@ -143,7 +143,7 @@ h3 {
     text-align: center;
 }
 .intro1 {
-  font-size: 500%;
+  font-size: 300%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
@@ -157,14 +157,14 @@ h3 {
   font-weight: bold;
 }
 .intro3 {
-  font-size: 500%;
+  font-size: 300%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-weight: bold;
 }
 .intro4 {
-  font-size: 500%;
+  font-size: 300%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
@@ -173,4 +173,13 @@ h3 {
 .highlight-white {
   background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #ffffff 65%);
 }
-
+.highlight-blue {
+  background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #0000ff 65%);
+}
+.unisonIntro { 
+  font-size: 300%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-weight: bold;
+}
