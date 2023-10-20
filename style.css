@@ -247,3 +247,12 @@ h3 {
     right: 0;
 }
 
+.pdf-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.pdf-container {
+    flex: 1;
+    box-sizing: border-box;
+    padding: 0 10px; /* Optional spacing between the PDFs */
+}
