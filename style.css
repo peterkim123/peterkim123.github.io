@@ -143,35 +143,35 @@ h3 {
     text-align: center;
 }
 .intro1 {
-  font-size: 300%;
+  font-size: 175%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-weight: bold;
 }
 .intro2 {
-  font-size: 500%;
+  font-size: 300%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-weight: bold;
 }
 .intro3 {
-  font-size: 300%;
+  font-size: 175%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-weight: bold;
 }
 .intro4 {
-  font-size: 300%;
+  font-size: 175%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-weight: bold;
 }
 .highlight-white {
-  background: linear-gradient(180deg,rgba(255,255,255, 0) 30%, #ffffff 30%);
+  background: linear-gradient(180deg,rgba(255,255,255, 0) 85%, #ffffff 85%);
 }
 .highlight-blue {
   background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #0000ff 65%);
