@@ -260,7 +260,7 @@ h3 {
     margin: 10px 50px;
 }
 .gallery img{
-    max-width: 200%;
+    max-width: 300%;
     height: auto;
     padding: 5px;
     transition: transform 0.3s ease; 
